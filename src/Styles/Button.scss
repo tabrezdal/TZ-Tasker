@@ -1,0 +1,12 @@
+.btn:focus {
+  outline: none;
+}
+
+.btn:hover{
+  transform: scale(105%);
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+  

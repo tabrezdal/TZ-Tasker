@@ -1,0 +1,21 @@
+@import "./Button.css";
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.header .btn {
+  display: inline-block;
+  color: #fff;
+  background-color: black;
+  border: none;
+  padding: 5px 15px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: inherit;
+  transition: all ease-in-out 0.3s;
+}/*# sourceMappingURL=Header.css.map */

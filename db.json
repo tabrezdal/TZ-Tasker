@@ -1,27 +1,15 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "sub": "UI Design",
-      "day": "26 Jan 2022 2pm",
-      "reminder": false
-    },
-    {
       "id": 2,
       "sub": "Web Layout Design",
       "day": "28 Jan 2022 10am",
-      "reminder": true
-    },
-    {
-      "sub": "Web Devlopment",
-      "day": "8 Feb 2022 01pm",
-      "reminder": false,
-      "id": 3
+      "reminder": false
     },
     {
       "sub": "Building and Deploying",
       "day": "15 March 2022 10am",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     }
   ]

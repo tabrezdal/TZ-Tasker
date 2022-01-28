@@ -1,0 +1,14 @@
+@mixin ButtonStyle ($fontSize, $padding){
+    display: inline-block;
+    color: #fff;
+    background-color: black;
+    border: none;
+    padding: $padding;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: $fontSize;
+    font-family: inherit;
+    transition: all ease-in-out 0.3s;
+  }

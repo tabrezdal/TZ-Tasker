@@ -2,7 +2,11 @@ import { useState, useEffect } from 'react';
 
 import Header from './Components/Header';
 import Tasks from './Components/Tasks';
-import AddTask from './Components/AddTask'
+import AddTask from './Components/AddTask';
+
+
+import './Styles/main.css';
+import './Styles/Container.css';
 
 
 
